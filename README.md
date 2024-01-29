@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SunnyBoiWave
+- 👋 Hi, I’m @SunnyBoi
 - 👀 I’m interested in BME topics, soccer, games, and code!
 - 🌱 I’m currently learning data structures and algorithms.
   
